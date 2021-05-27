@@ -19,7 +19,7 @@ import java.util.Arrays;
  * 解释:<br>
  * 1   (0 0 0 1)<br>
  * 4   (0 1 0 0)<br>
- *        ↑   ↑<br>
+ *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↑&nbsp;&nbsp;&nbsp;↑<br>
  *<br>
  * 上面的箭头指出了对应二进制位不同的位置。<br>
  * 来源：力扣（LeetCode）<br>
