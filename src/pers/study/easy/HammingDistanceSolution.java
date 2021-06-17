@@ -39,9 +39,4 @@ public class HammingDistanceSolution {
         }
         return result;
     }
-
-    public static void main(String[] args) {
-        HammingDistanceSolution hammingDistanceSolution = new HammingDistanceSolution();
-        hammingDistanceSolution.hammingDistance(1,4);
-    }
 }
